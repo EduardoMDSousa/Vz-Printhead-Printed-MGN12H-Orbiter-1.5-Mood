@@ -24,6 +24,6 @@ ps. My thanks to Simon Vez , for his great help with advice and revision.
 
 Credits, from the original version and Readme, go to Simon Vez
 
-<img width="600" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-04-36CustomizedView24815512553.png">
-<img width="600" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-05-56PM-000_CustomizedView32516733739.png">
-<img width="600" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-37-22PM.png">
+<img width="600" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H-Orbiter-1.5-Mood/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-04-36CustomizedView24815512553.png">
+<img width="600" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H-Orbiter-1.5-Mood/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-37-22PM.png">
+<img width="600" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H-Orbiter-1.5-Mood/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-05-56PM-000_CustomizedView32516733739.png">
