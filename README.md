@@ -1,16 +1,22 @@
-# Vz-Printhead-Printed-MGN12H-main
-Vz-Printhead-Printed-MGN12H Mood
+# Vz-Printhead-Printed-MGN12H-Orbiter-1.5-Mood
+Vz-Printhead-Printed-MGN12H-Orbiter-1.5-Mood
 
-BETA ! UNTESTED ! We need help from the community to test and report feedback. Use at your own risk
+BETA ! TESTED ! We need help from the community to test and report feedback. Use at your own risk
 The Vz-Printhead Printed MGN12H Version
 
-The Vz-Printhead is a light weight and stiff head made for the VzBoTs, with MGN12H on X Axis. It was designed to be compatible with almost all hotends, and extruders out there. With the height adjustable fan duct, you can easily change your config without having to re-print a new fan duct.
+The Vz-Printhead is a light weight and stiff head made for the VzBoTs, with MGN12H on X Axis. It was designed to be compatible with almost all hotends, and extruders out there, "and now with Orbiter 1.5 to". With the height adjustable fan duct, you can easily change your config without having to re-print a new fan duct.
 
-Note, it may be necessary to print extra parts depending on the hotend to use, the extra parts in the STL folders are for Goliath and Rapido, also the new CPAP duct to print as well.
+Note, it may be necessary to print extra parts depending on the hotend to use, the extra parts in the STL folders are for Goliath and Rapido, also the new CPAP duct to print as well, as the extruder adapter plate.
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Atencion.
+Note, Since the top plate is the same, it is only needed to print the adapter plate and the back plate to fit this mood, all other partes are the same.
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 Spacers and so on, can be edited in cad and exported for printing, if any user can't edit I'll be happy to help edit and export the essentials.
 
 in the extra parts folder, the head doc for Klicky prob and NRG versions will also be available
+
+Hope you like and be useful for any one.
 
 you can find me on the Facebook Group as Eduardo Sousa or on discord @EduardoSousa#7556
 
